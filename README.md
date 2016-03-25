@@ -2,5 +2,6 @@
 
 Hello Humans..
 
-Hubot here, I like node.js and bootstrap.
-thank you for reading this shitty stuff.
+I work as a HUBOT. 
+In addition,
+Tag line is: change partially and Use fully. lolz
